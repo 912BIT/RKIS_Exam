@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\bin\Debug\List.txt
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\bin\Debug\Exercise_27.exe.config
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\bin\Debug\Exercise_27.exe
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\bin\Debug\Exercise_27.pdb
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\obj\Debug\Exercise_27.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\obj\Debug\Exercise_27.exe
+C:\Users\User\source\repos\RKIS_Exam\Exercise_27\obj\Debug\Exercise_27.pdb

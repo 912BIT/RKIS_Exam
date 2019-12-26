@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\RKIS_Exam\Exercise_20\bin\Debug\Exercise_20.exe.config
+C:\Users\User\source\repos\RKIS_Exam\Exercise_20\bin\Debug\Exercise_20.exe
+C:\Users\User\source\repos\RKIS_Exam\Exercise_20\bin\Debug\Exercise_20.pdb
+C:\Users\User\source\repos\RKIS_Exam\Exercise_20\obj\Debug\Exercise_20.exe
+C:\Users\User\source\repos\RKIS_Exam\Exercise_20\obj\Debug\Exercise_20.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\RKIS_Exam\Exercise_14\bin\Debug\Exercise_14.exe.config
+C:\Users\User\source\repos\RKIS_Exam\Exercise_14\bin\Debug\Exercise_14.exe
+C:\Users\User\source\repos\RKIS_Exam\Exercise_14\bin\Debug\Exercise_14.pdb
+C:\Users\User\source\repos\RKIS_Exam\Exercise_14\obj\Debug\Exercise_14.csprojAssemblyReference.cache
+C:\Users\User\source\repos\RKIS_Exam\Exercise_14\obj\Debug\Exercise_14.exe
+C:\Users\User\source\repos\RKIS_Exam\Exercise_14\obj\Debug\Exercise_14.pdb
